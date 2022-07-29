@@ -1,1 +1,1 @@
-# Stores python codes
+## a game made by python language
